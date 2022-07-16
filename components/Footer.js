@@ -65,7 +65,7 @@ export default function Footer() {
               English
             </span>
             <span>
-              <DollarSign className="euro" />
+              <EuroSign className="euro" />
               EUR
             </span>
             <span>
